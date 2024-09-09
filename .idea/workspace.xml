@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4f18151-d72f-4309-b3ba-559b2fe80b7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VendingMachine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BottleOfWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BottleOfWaterVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HotDrinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HotDrinksVendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VendingMachine.java" afterDir="false" />
+    <list default="true" id="d4f18151-d72f-4309-b3ba-559b2fe80b7c" name="Changes" comment="Done VendingMachine">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +75,19 @@
       <option name="presentableId" value="Default" />
       <updated>1722509428110</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done VendingMachine">
+      <option name="closed" value="true" />
+      <created>1722516305295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722516305296</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done VendingMachine" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done VendingMachine" />
   </component>
 </project>
